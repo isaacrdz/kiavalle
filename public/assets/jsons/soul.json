@@ -1,0 +1,15 @@
+{
+    "group": "soul",
+    "vehicle": "Kia Soul",
+    "title": "Kia SOUL 2023",
+    "versions":[
+        {"version":"L M/T", "price":"288,900", "image":"soul", "features":["6 bolsas de aire","Rines de aluminio de 16”","Pantalla táctil de 7” con Conectividad Android Auto®","y Apple CarPlay®","Faros delanteros de halógeno","6 bocinas"]},
+        {"version":"L A/T", "price":"303,900", "image":"soul", "features":["6 bolsas de aire","Rines de aluminio de 16”","Pantalla táctil de 7” con Conectividad Android Auto®","y Apple CarPlay®","Faros delanteros de halógeno","6 bocinas"]},
+        {"version":"LX T/M", "price":"323,900", "image":"soul", "features":["Faros delanteros tipo proyección","Luces ambientales con 8 tonos y 6 temas a elegir","Rines de aleación de 17’’","Cargador de inducción inalámbrica para teléfonos inteligentes","Colores exteriores en 2 tonos"]}
+    ],
+    "extras":[
+        {"title":"Velocidades ", "image":"transmision", "text":"RENDIMIENTO 17.06 KM/L o 17.46 KM/L, Max. Power 121 hp @ 6,300 rpm ó 147hp @ 6,200 rpm."},
+        {"title":"Head-up display", "image":"gasolina", "text":""},
+        {"title":"Selección modos de manejo", "image":"volante", "text":""}
+    ]
+}

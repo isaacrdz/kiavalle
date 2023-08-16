@@ -1,0 +1,12 @@
+{
+    "group": "seltos",
+    "vehicle": "Kia Seltos",
+    "title": "Kia SELTOS 2023",
+    "versions":[
+        {"version":"EX", "price":"443,900", "image":"seltos", "features":["Transmisión automática 6 velocidades","6 bolsas de aire","Asientos traseros 60:40","isofix","aros de niebla delanteros"]},
+        {"version":"EX Pack", "price":"480,900", "image":"seltos", "features":["Aire acondicionado automático","llave inteligente con botón encendido","Cargador inalámbrico","Pantalla de 10.25 touch con Apple Carplay y Android Auto"]},
+        {"version":"SX", "price":"500,900", "image":"seltos", "features":["Manijas cromadas","Quemacocos","Faros Full LED","Faros de niebla LED","iluminación interior LED"]},
+        {"version":"GT Line", "price":"530,900", "image":"seltos", "features":["Motor 1.4 Turbo","Asientos delanteros ventilados","Asientos deportivos con costuras rojas","Kit aerodinámico deportivo GT L","Clúster de supervisión 7\""]}
+    ],
+    "extras":[]
+}

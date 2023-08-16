@@ -1,0 +1,51 @@
+{
+  "group": "rio-sedan",
+  "vehicle": "Kia Rio Sedan",
+  "title": "Kia RIO SEDAN 2023",
+  "versions": [
+    {
+      "version": "L A/T",
+      "price": "303,900",
+      "image": "rio-sedan",
+      "features": [
+        "Rines de aluminio 15’’",
+        "6 bolsas de aire",
+        "Cámara de reversa"
+      ]
+    },
+    {
+      "version": "LX T/M",
+      "price": "323,900",
+      "image": "rio-sedan",
+      "features": [
+        "Rines de aluminio 15’’",
+        "6 bolsas de aire",
+        "Pantalla de 7’’ con conectividad Android Auto y Apple CarPlay",
+        "Cámara de reversa"
+      ]
+    },
+    {
+      "version": "LX T/A",
+      "price": "338,900",
+      "image": "rio-sedan",
+      "features": ["Rines de 17’’", "Manijas cromadas", "Asientos de piel"]
+    }
+  ],
+  "extras": [
+    {
+      "title": "Velocidades",
+      "image": "transmision",
+      "text": "Transmisión automática: 6 velocidades, Transmisión estándar: 6 velocidades"
+    },
+    {
+      "title": "Frenos ABS",
+      "image": "abs",
+      "text": "El Sistema Antibloqueo de Freno (ABS) acorta la distancia de frenado previniendo derrapes para mantener el control del vehículo."
+    },
+    {
+      "title": "Pantalla táctil",
+      "image": "pantalla",
+      "text": "Pantalla táctil de 7’’ a color con conectividad Android AutoTM (1) / Apple CarplayTM (2) y 6 bocinas integradas"
+    }
+  ]
+}

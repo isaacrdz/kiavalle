@@ -1,0 +1,16 @@
+{
+    "group": "sportage",
+    "vehicle": "Kia Sportage",
+    "title": "Kia SPORTAGE 2023",
+    "versions":[
+        {"version":"LX", "price":"452,900", "image":"sportage", "features":["6 bolsas de aire","Pantalla táctil de 7’’ con Android Auto y Apple CarPlay","Aire acondicionado manual con salida de aire trasera","Manejo Normal / Sport","Sensores traseros"]},
+        {"version":"EX", "price":"500,900", "image":"sportage", "features":["6 bolsas de aire","Pantalla táctil de 7’’ con Android Auto y Apple CarPlay","Manejo Normal / Sport","Sensores traseros","Cámara de reversa","Rin de 17’’"]},
+        {"version":"EX Pack", "price":"548,900", "image":"sportage", "features":["6 bolsas de aire","Pantalla táctil de 7’’ con Android Auto y Apple CarPlay", "Manejo Normal / Sport","Cajuela inteligente","Cámara de reversa","Rin de 19’’"]},
+        {"version":"SLX", "price":"583,900", "image":"sportage", "features":["6 bolsas de aire","Pantalla táctil de 8’’ con Android Auto y Apple CarPlay","Cargado inalámbrico","Manejo Normal / Sport / ECO","Cajuela inteligente","Alerta de tráfico cruzado","Cámara de reversa","Rin de 19’’"]}
+    ],
+    "extras":[
+        {"title":"Velocidades ", "image":"transmision", "text":""},
+        {"title":"Sistema AWD", "image":"llanta", "text":""},
+        {"title":"Pantalla táctil", "image":"pantalla", "text":""}
+    ]
+}

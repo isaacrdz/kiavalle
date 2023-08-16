@@ -1,0 +1,58 @@
+{
+  "group": "forte-sedan",
+  "vehicle": "Kia Forte Sedan",
+  "title": "Kia FORTE SEDAN 2023",
+  "versions": [
+    {
+      "version": "LX IVT",
+      "price": "397,900",
+      "image": "forte-sedan",
+      "features": [
+        "Rines de aluminio de 16’’",
+        "Pantalla de 8’’ conectividad Android Auto y Apple CarPlay",
+        "Cámara de reversa con guías dinámicas",
+        "6 bolsas de aire"
+      ]
+    },
+    {
+      "version": "EX IVT",
+      "price": "436,900",
+      "image": "forte-sedan",
+      "features": [
+        "Faros de niebla delanteros",
+        "Volante y palanca de velocidades forradas en piel",
+        "Control crucero",
+        "Llave inteligente con botón de encendido"
+      ]
+    },
+    {
+      "version": "GT Line IVT",
+      "price": "487,900",
+      "image": "forte-sedan",
+      "features": [
+        "Rines de aluminio de 17’’",
+        "Faros delanteros LED",
+        "Quemacocos",
+        "Cargador inalámbrico",
+        "Sistema de monitor de punto ciego"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "title": "Velocidades",
+      "image": "transmision",
+      "text": "Transmisión automática: IVT, Transmisión estándar: 6 velocidades"
+    },
+    {
+      "title": "Asistente de arranque (HAC)",
+      "image": "volante",
+      "text": "Arranca en cualquier pendiente sin desplazarte hacia atrás con el Asistente de Arranque en Pendientes (HAC)."
+    },
+    {
+      "title": "Pantalla táctil",
+      "image": "pantalla",
+      "text": "Pantalla táctil de 8” a color con conectividad Android AutoTM (1) / Apple CarplayTM (2)"
+    }
+  ]
+}

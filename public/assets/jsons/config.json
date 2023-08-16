@@ -1,0 +1,91 @@
+{
+  "cars": [
+    {
+      "id": "forte-sedan",
+      "title": "Kia Forte Sedan",
+      "image": "forte",
+      "to": "forte/sedan"
+    },
+    {
+      "id": "rio-sedan",
+      "title": "Kia Rio Sedan",
+      "image": "rio-sedan",
+      "to": "rio/sedan"
+    },
+    { "id": "soul", "title": "Kia Soul", "image": "soul", "to": "soul" },
+    {
+      "id": "seltos",
+      "title": "Kia Seltos",
+      "image": "seltos",
+      "to": "seltos"
+    },
+    {
+      "id": "sorento",
+      "title": "Kia Sorento",
+      "image": "sorento",
+      "to": "sorento"
+    }
+  ],
+  "banners": {
+    "version": "230810",
+    "active": 0,
+    "list": [
+      { "group": "", "type": "png", "image": "Forte_Agosto" },
+      { "group": "", "type": "png", "image": "Seltos_Agosto" },
+      { "group": "", "type": "png", "image": "Soul_Agosto" },
+      { "group": "", "type": "png", "image": "Sportage_Agosto" }
+    ]
+  },
+  "schedules": ["L-V: 8:30 - 20:00", "S: 8:30 - 19:00", "D: 10:00 - 18:00"],
+  "social": [
+    { "type": "facebook", "data": { "url": "KIAValleOriente" } },
+    { "type": "instagram", "data": { "url": "kiavalleoriente" } },
+    {
+      "type": "whatsapp",
+      "data": { "number": "528182152308", "url": "https://wa.me/528182152308" }
+    }
+  ],
+  "services": [
+    { "title": "Prueba de manejo", "image": "blk1.png", "to": "/contacto" },
+    {
+      "title": "Conoce nuestros modelos",
+      "image": "blk2.png",
+      "to": "/contacto"
+    }
+  ],
+  "contact": {
+    "text": "Para contactarnos por favor llena este sencillo formulario y no olvides explicar el motivo antes de hacer clic en el botón de Enviar. Pronto nos pondremos en contacto contigo para hacer un oportuno seguimiento de tu caso.",
+    "address": "Av. Lázaro Cárdenas No. 2506, Col. Del Valle Sector Oriente, San Pedro Garza García , NL. C.P., 66269",
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7193.301946313424!2d-100.331766!3d25.649707!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3664dcbba4d8a83f!2sKia%20Valle%20Oriente!5e0!3m2!1ses-419!2smx!4v1568090105926!5m2!1ses-419!2smx",
+    "options": [
+      {
+        "type": "whatsapp",
+        "data": {
+          "text": "+52 81 2085 4382",
+          "number": "528120854382",
+          "url": "https://wa.me/5281208543821"
+        }
+      },
+      {
+        "type": "whatsapp",
+        "data": {
+          "text": "+52 81 8215 2308",
+          "number": "528182152308",
+          "url": "https://wa.me/528182152308"
+        }
+      }
+    ]
+  },
+  "compramosAuto": {
+    "banner": "220126",
+    "title": "Compramos tu auto",
+    "text": "Llena el formulario con tus datos, nos pondremos en contacto lo antes posible.",
+    "address": "Av. Lázaro Cárdenas No. 2506, Col. Del Valle Sector Oriente, San Pedro Garza García , NL. C.P., 66269",
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7193.301946313424!2d-100.331766!3d25.649707!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3664dcbba4d8a83f!2sKia%20Valle%20Oriente!5e0!3m2!1ses-419!2smx!4v1568090105926!5m2!1ses-419!2smx"
+  },
+  "footer": {
+    "text": "© 2021 | Av. Lázaro Cárdenas No. 2506, Col. Del Valle Sector Oriente, San Pedro Garza García , NL. C.P., 66269",
+    "legal": "Aviso de Privacidad"
+  },
+  "terms": "Imágenes de uso ilustrativo. Pecios expresados en Pesos Mexicanos. Precios sujetos a cambios sin previo aviso."
+}

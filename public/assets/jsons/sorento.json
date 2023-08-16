@@ -1,0 +1,15 @@
+{
+    "group": "sorento",
+    "vehicle": "Kia Sorento",
+    "title": "Kia SORENTO 2023",
+    "versions":[
+        {"version":"GDI EX T/A", "price":"776,900", "image":"sorento", "features":["Pantalla de 8” con Android Auto® y Apple CarPlay®","7 bolsas de aire","Cámara y sensores traseros","Luces DLR LED","Clúster 4.2”"]},
+        {"version":"GDI EX Pack T/A", "price":"822,900", "image":"sorento", "features":["Cargador inalámbrico","Espejos abatibles electrónicamente","Rin de aluminio de 18”","Sensores delanteros y traseros","Aire acondicionado automático"]},
+        {"version":"Turbo SXL T/A", "price":"937,900", "image":"sorento", "features":["Techo panorámico","Rieles de techo","Pantalla de 10.25” con navegador GPS","Cajuela inteligente","Volante de piel"]}
+    ],
+    "extras":[
+        {"title":"Velocidades", "image":"transmision", "text":""},
+        {"title":"Pantalla táctil", "image":"pantalla", "text":""},
+        {"title":"Audio Premium", "image":"sonido", "text":""}
+    ]
+}
