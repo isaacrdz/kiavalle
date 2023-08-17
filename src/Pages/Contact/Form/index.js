@@ -28,9 +28,16 @@ const ContactForm = ({ cars, contact, vehicle }) => {
     setLoading(true);
     const userData = {
       ...data,
+      reason: "Compramos Tu Auto - Kia Valle Oriente",
+      emails: [
+        "miguel.esparza@surman.com",
+        "graciela.gomez@surman.com",
+        "mauricio.cantu@surman.com",
+        "victor.garciag@surman.com",
+        "brenda.cabrera@surman.com",
+      ],
       name: capitalizeFirstLetter(data.name),
       email: trimAndLowerCase(data.email),
-      reason: "",
       landing: "kia_valle",
     };
 
@@ -40,7 +47,8 @@ const ContactForm = ({ cars, contact, vehicle }) => {
       },
     };
     const response = await axios.post(
-      `https://apicarone.com/api/v1/utils/send-email`,
+      // `https://apicarone.com/api/v1/utils/send-email`,
+      `http://localhost:5000/api/v1/utils/send-email`,
       userData,
       config
     );
