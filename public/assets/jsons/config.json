@@ -30,10 +30,13 @@
     "version": "230810",
     "active": 0,
     "list": [
-      { "group": "", "type": "png", "image": "Forte_Agosto" },
-      { "group": "", "type": "png", "image": "Seltos_Agosto" },
-      { "group": "", "type": "png", "image": "Soul_Agosto" },
-      { "group": "", "type": "png", "image": "Sportage_Agosto" }
+      { "group": "", "type": "png", "image": "1" },
+      { "group": "", "type": "png", "image": "2" },
+      { "group": "", "type": "png", "image": "3" },
+      { "group": "", "type": "png", "image": "4" },
+      { "group": "", "type": "png", "image": "5" },
+      { "group": "", "type": "png", "image": "6" },
+      { "group": "", "type": "png", "image": "7" }
     ]
   },
   "schedules": ["L-V: 8:30 - 20:00", "S: 8:30 - 19:00", "D: 10:00 - 18:00"],
